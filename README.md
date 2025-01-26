@@ -11,6 +11,7 @@ the white pawns each player will be able to move their pawns and the time
 of each player will go down and be paused when they make a move (At this
 point the users can move the pawns all over the board and who wins is 
 determined by them).
+
 ![Screenshot (424)](https://github.com/user-attachments/assets/addba81d-f8cd-4939-b2f7-60211599951f)
 
 
